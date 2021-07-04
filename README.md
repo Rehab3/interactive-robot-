@@ -1,1 +1,3 @@
 # interactive-robot-
+in this repository you will find my UML diagrams for the project interactive robot which is made by the creative people of smart methods.
+the UML diagrams include a use case diagram which includes all possible interactions that users can make with our robot. It also includes a deployment diagram that shows all components, hardware and software, of the system. Furthermore you will find a sequence diagram that will show you the interactions that a user makes with the robot arranged in a sequential time-based order. I hope you enjoy reading them and that you find them beneficial for your understanding of our project.
